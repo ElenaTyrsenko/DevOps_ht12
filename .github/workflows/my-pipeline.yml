@@ -5,7 +5,7 @@ on:
       - main
       - jenk
    pull_request:
-     tyres:
+     types:
        - opened
        - synchonize
    workflow_dispatch:
